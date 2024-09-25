@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name rls2hd)(type Legacy)(uri ${KIPRJMOD}/rls2hd.lib)(options "")(descr ""))
+)

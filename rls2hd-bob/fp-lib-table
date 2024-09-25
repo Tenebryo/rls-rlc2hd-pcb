@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name rls2hd)(type KiCad)(uri ${KIPRJMOD}/rls2hd.pretty)(options "")(descr ""))
+)
